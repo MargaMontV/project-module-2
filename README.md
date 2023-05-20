@@ -1,6 +1,6 @@
 # project-module-2
-(![My Image](books.jpg))
 # TOP BOOKS RATINGS
+(![My Image](books.jpg))
 This dashboard will help publisher to define which genres and subgenres are most popular and best rated, with this, they can try to find and publish more of this type of books.
 For readers who want to find a book to read, this dashboard will help them find best rated books and authors and their genres and subgenres, so they may be interested in reading any of this books.
 # INTRODUCTION
