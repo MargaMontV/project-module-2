@@ -3,7 +3,7 @@
 ![My Image](books.jpg)
 This dashboard will help publisher to define which genres and subgenres are most popular and best rated, with this, they can try to find and publish more of this type of books.
 For readers who want to find a book to read, this dashboard will help them find best rated books and authors and their genres and subgenres, so they may be interested in reading any of this books.
-# Introduction
+### :information_source: # Introduction
 Through this dashboard you will find an analysis of the highest rated books, based on number of reviews, genre and years from 2000 to 2020.
 So, you will be able to find the top ten most read books, find the most read by genre or the most read in a specific year from 2000 to 2020.
 # Specifications
