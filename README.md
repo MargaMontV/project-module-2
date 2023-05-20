@@ -11,6 +11,8 @@ TOP BOOKS RATINGS provides analysis:
 -	Giving you the top ten highest read books.
 -	Allowing you to find the most read books by genre.
 -	Checking the best rated authors and the genres they write.
+# DATA MODEL
+(![My Image](data_model_DBdiagram.png))
 # TECHNOLOGIES
 Python
 Jupyter Notebook
