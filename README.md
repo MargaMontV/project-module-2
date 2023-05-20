@@ -12,6 +12,8 @@ TOP BOOKS RATINGS provides analysis:
 -	Giving you the top ten highest read books.
 -	Allowing you to find the most read books by genre.
 -	Checking the best rated authors and the genres they write.
+### :bulb: **Functional design mockup**
+![My Image](functional_design_mockup.png)
 ### :bulb: **Data model**
 ![My Image](data_model_DBdiagram.png)
 ### :computer: **Technologies**
