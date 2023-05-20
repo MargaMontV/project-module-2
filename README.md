@@ -15,11 +15,11 @@ TOP BOOKS RATINGS provides analysis:
 # DATA MODEL
 ![My Image](data_model_DBdiagram.png)
 # TECHNOLOGIES
-Python
-Jupyter Notebook
-Pandas
-Numpy
-Power Bi
+- Python
+- Jupyter Notebook
+- Pandas
+- Numpy
+- Power Bi
 # CONCLUSIONS
 The genres most read and best rated are Fantasy, Mystery and Nonfiction, therefore, publishers may want to try and publish more books of these genres. Is important to notice that Young Adult books of this main genres are most read and valued, it is a very important subgenre to take into account.
 Special notice to Graphic Novels which are very well valued and read by many people, is a genre that is growing fast.
