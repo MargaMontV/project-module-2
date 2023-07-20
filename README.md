@@ -1,4 +1,4 @@
-# Power BI Dashboard
+# Project Module 2
 # TOP BOOKS RATINGS
 ![My Image](books.jpg)
 This dashboard will help publisher to define which genres and subgenres are most popular and best rated, with this, they can try to find and publish more of this type of books.
